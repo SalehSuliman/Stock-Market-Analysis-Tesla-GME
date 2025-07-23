@@ -15,6 +15,8 @@ A Python-based financial analysis tool that extracts, processes, and visualizes 
 ![Tesla Revenue Analysis](images/tesla_revenue.png)
 ![GameStop Stock Analysis](images/gme_stock.png)
 ![GameStop Revenue Analysis](images/gme_revenue.png)
+![graph the Tesla Stock Data](images/graphTeslaStockData.png)
+![graph the GameStop Stock Data](images/graphGameStopStockData.png)
 
 ## 🛠️ Technologies
 - Python 3.8+
